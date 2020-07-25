@@ -8,12 +8,12 @@ Clone this repository
 
 Install all the dependencies for Angular
 
-`cd eatOS`
+`cd eatOS\n`
 `npm install`
 
 Install all dependencies for Node backend
 
-`cd backend`
+`cd backend\n`
 `npm install`
 
 ## Run Application
