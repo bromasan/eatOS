@@ -25,5 +25,5 @@ In the backend command prompt run:
 In the root command prompt run:
 `ng serve`
 
-Take the quiz and enjoy!
+Travel to http://localhost:4200 and enjoy!
 
