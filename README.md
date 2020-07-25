@@ -1,4 +1,4 @@
-# ContestApp
+# Quiz Application
 
 
 ## Install
