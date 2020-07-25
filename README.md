@@ -8,13 +8,13 @@ Clone this repository
 
 Install all the dependencies for Angular
 
-`cd eatOS
-npm install`
+`cd eatOS`
+`npm install`
 
 Install all dependencies for Node backend
 
-`cd backend
-npm install`
+`cd backend`
+`npm install`
 
 ## Run Application
 You will need two terminals open - one in root directory, one in backend.
